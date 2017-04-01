@@ -1,5 +1,9 @@
 # Udacity investment and trading capstone project
 
+The project report is here:
+
+* projectreport.pdf
+
 The main code for the project is found in the python files:
 
 * portfolio.py     - portfolio management functionality
@@ -16,6 +20,4 @@ For each of these files, examples of usage are included in the jupyter notebooks
 
 The data/ folder stores downloaded stock data from Yahoo finance. It needs to be present, even if empty. If a data set is found locally, it will be used. Otherwise data will be retrieved from Yahoo finance and stored here.
 
-The project report is found in the file:
 
-* projectreport.pdf
